@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{35793441-1007-42e4-8bb9-6a765ba95e05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{7757579b-9268-4a90-93d5-7583e0bc98c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{98e77cb8-795f-4b45-a860-79dd167b1dbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{55ff8a38-31fc-4f4e-a528-5308f1c59b2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{b70d5b9a-dd42-4fe6-8070-b5c5ea5fdc9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Custom Controls">
+      <UniqueIdentifier>{dcb45bd5-7e4d-4eda-8c33-62c413ae3956}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MasterAccount.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Crypto.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="PasswordManagerApp.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="RedisterationFrame.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrame.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Custom Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="AppSetting.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="SignInPanel.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SignUpPanel.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomButton.cpp">
+      <Filter>Custom Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGPanel.cpp">
+      <Filter>Custom Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="wxImagePanel.cpp">
+      <Filter>Custom Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpClient.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountPanel.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Password.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="MainAddEditAccount.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="MainViewAccount.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="BackgroundPanel.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchBar.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="MoreInfoDialog.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrolledWidgetsPane.cpp">
+      <Filter>Custom Controls</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MasterAccount.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Crypto.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="PasswordManagerApp.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisterationFrame.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrame.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Custom Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="AppSetting.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="SignInPanel.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SignUpPanel.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomButton.h">
+      <Filter>Custom Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGPanel.h">
+      <Filter>Custom Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="wxImagePanel.h">
+      <Filter>Custom Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpClient.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountPanel.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Password.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="MainAddEditAccount.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="MainViewAccount.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="BackgroundPanel.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchBar.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="MoreInfoDialog.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrolledWidgetsPane.h">
+      <Filter>Custom Controls</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

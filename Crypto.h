@@ -25,3 +25,4 @@ namespace Crypto
     unsigned char* hexStringToChar(std::string hexString);
     std::string stringWithSpaces(std::string text);
 };
+
